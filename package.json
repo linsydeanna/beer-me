@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/josephrstraub/beer-me/issues"
   },
-  "homepage": "https://github.com/josephrstraub/beer-me#readme"
+  "homepage": "https://github.com/josephrstraub/beer-me#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0"
+  }
 }
